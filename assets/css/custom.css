@@ -1,0 +1,18 @@
+/*.card .card-image {
+display: block;
+position: relative;
+max-width: 100px;
+}
+*/
+
+.image {
+
+	max-width: 100px;
+}
+
+/*img,
+video {
+  height: auto;
+  max-width: 100%;
+  display: block;
+}*/
