@@ -50,9 +50,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "razvan at csail.mit.edu"
+email = "ramarine at ucsc.edu"
 phone = ""
-address = "MIT CSAIL 32-D472, 32 Vassar Street, Cambridge, MA"
+address = "UC Santa Cruz, Baskin Engineering 2, 547A"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""

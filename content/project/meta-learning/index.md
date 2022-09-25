@@ -1,6 +1,6 @@
 +++
-title = "ML Benchmarks"
-date = 2019-03-31T10:50:48-04:00
+title = "Meta Learning"
+date = 2022-09-25T15:05:36-07:00
 draft = false
 
 # Tags: can be used for filtering projects.
@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "We build benchmarks and organize community challenges on key medical prediction problems."
+summary = "Meta-learning is an ML paradigm where models learn over multiple related tasks, and generalise to new, unseen tasks."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -19,7 +19,7 @@ summary = "We build benchmarks and organize community challenges on key medical 
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://tadpole.grand-challenge.org/"
+external_link = ""
 
 # Links (optional).
 url_pdf = ""
@@ -41,5 +41,15 @@ url_poster = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point = "Left"
 +++
+
+I am interested in any meta-learning methods for medical problems. In particular in medicine, there are many distribution shifts that occur due to changes in hospital scanners, scanning protocols, diagnosis standards. Some changes occur even gradually, such as the general population getting older. Meta-learning approaches can help mitigate these problems by learning to generalize across such distribution shifts.
+
+My PhD student Najmeh Mashhadri is currently working on meta-learning using compositional ML approaches.
+
+Further reading:
+
+* [Alet et al, Modular Meta-Learning, 2018](https://proceedings.mlr.press/v87/alet18a.html)
+* [Alet et al, Graph Element Networks, 2019](http://proceedings.mlr.press/v97/alet19a/alet19a.pdf)
+* [Finn et al, Model-agnostic meta-learning for fast adaptation of deep networks, 2017](https://arxiv.org/abs/1703.03400)

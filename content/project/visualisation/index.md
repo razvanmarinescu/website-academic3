@@ -1,5 +1,5 @@
 +++
-title = "Visualisation of Brain Pathology (BrainPainter)"
+title = "Medical Visualisation"
 date = 2018-10-23T09:37:04-04:00
 draft = false
 
@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "BrainPainter is a software that generates visually appealing images of brain structures."
+summary = "Building software and ML models for the visualisation of medical images. An example project is BrainPainter."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.

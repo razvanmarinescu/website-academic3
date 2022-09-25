@@ -9,17 +9,17 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Postdoctoral Researcher in Medical Image Computing"
+role = "Assistant Professor"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "MIT CSAIL", url = "" }, { name = "razvan at csail.mit.edu", url = "" } ]
+organizations = [ { name = "UC Santa Cruz", url = "" }, { name = "ramarine at ucsc.edu", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include developing machine learning generator models for generating high-dimensional objects such as images. These can be used for image reconstruction and manipulation, as well as visualisation of disease processes in medicine."
+bio = "My research interests are in Machine Learning, and it's applications in Healthcare and Molecular Biology. I am doing research in generative models, bayesian modelling, causal ML, compositional ML and multimodal modelling."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "razvan@csail.mit.edu"
+email = "ramarine@ucsc.edu"
 
 # List (academic) interests or hobbies
 interests = [
@@ -27,7 +27,9 @@ interests = [
   "Generative ML Models",
   "Bayesian inference",
   "Applications of Machine Learning to Medicine",
-  "Computational Intelligence",
+  "Molecular Biology",
+  "Molecular Dynamics",
+  "Entrepreneurship"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -61,7 +63,7 @@ user_groups = ["Researchers"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:razvan at csail.mit.edu"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:ramarine at ucsc.edu"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
   icon = "twitter"
@@ -92,8 +94,15 @@ user_groups = ["Researchers"]
 
 +++
 
+**I'm currently hiring 3-4 PhD students (UCSC application deadline is 10 Jan 2023) or postdocs (can join anytime)!**  
 
-I am a postdoctoral researcher in [Polina Golland's lab](https://people.csail.mit.edu/polina/) at MIT, working on machine learning algorithms for healthcare applications. I currently develop generative models for natural images, Chest X-Rays and brain images, which can be used as prior models for image reconstruction tasks, using bayesian posterior optimisation.
+<span style="color:red">Prospective PhDs/postdocs/undergrads/masters who want to work with me: see [here](#joinlab)</span>
+
+
+I am an Assistant Professor in the department of Computer Science and Engineering at UC Santa Cruz. My research focuses on Machine Learning and its applications to Healthcare and Biomolecular systems. 
+
+
+During my PostDoc in [Polina Golland's lab](https://people.csail.mit.edu/polina/) at MIT, I worked on machine learning algorithms for healthcare applications. I currently develop generative models for natural images, Chest X-Rays and brain images, which can be used as prior models for image reconstruction tasks, using bayesian posterior optimisation.
 
 During my PhD, I developed Bayesian statistical models for prediction of Alzheimer's disease and related neurodegenerative diseases. Such models were able to not only to estimate the continuous evolution of Alzheimer's disease, but also discover novel spatial patterns of brain pathology (e.g. [DIVE](https://www.sciencedirect.com/science/article/pii/S1053811919301491)) or transfer such "learned evolutions" in populations with different diseases (e.g. [DKT](https://arxiv.org/abs/1901.03517)). I further co-organised [TADPOLE](https://tadpole.grand-challenge.org/), an international competition that compared 92 algorithms from 33 teams at predicting the evolution of Alzheimer's disease. Finally, together with UCL colleagues N. Firth and S. Primativo, I performed one of the first comprehensive clinical studies ([Firth et al., Brain, 2019](https://academic.oup.com/brain/article/142/7/2082/5521045)) on the evolution of Posterior Cortical Atrophy, a rare dementia affecting the visual system.
 
@@ -104,6 +113,3 @@ I also have a keen interest in general machine learning and computational intell
 You can see a complete list of publications on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=AzfoycUAAAAJ) page. See my academic job market research statement [here](files/RazvanMarinescu_ResearchStatement.pdf).
 
 My partner [Leilani Gilpin](http://people.csail.mit.edu/lgilpin/) is also a researcher in ML, and does fantastic work on ML Explainability using logical reasoning methods. See her publications [here](https://scholar.google.com/citations?user=UFT_ijYAAAAJ&hl=en).
-
-Academic job market research statement [here](files/RazvanMarinescu_ResearchStatement.pdf).
-

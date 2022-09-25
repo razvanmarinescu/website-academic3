@@ -29,6 +29,13 @@
   url = "#projects"
   weight = 5
 
+
+[[main]]
+  name = "Join My Lab"
+  url = "#joinlab"
+  weight = 6
+
+
 #[[main]]
 #  name = "Tutorials"
 #  url = "/tutorial/"
@@ -39,16 +46,16 @@
 [[main]]
    name = "CV"
    url = "files/RazvanMarinescu_CV.pdf"
-   weight = 6
+   weight = 7
 
 [[main]]
    name = "Blog"
    url = "https://razvanmarinescu.github.io/"
-   weight = 7
+   weight = 8
 
  
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 8
+  weight = 9
 
