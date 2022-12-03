@@ -33,6 +33,8 @@ weight = 10
   
 +++
 
+* **Sept 2022**: I started teaching [CSE242: Machine Learning](https://courses.soe.ucsc.edu/courses/cse242), for graduate students.
+* **July 2022**: <span style="color:red">I oficially started as an Assistant Professor in the Computer Science and Engineering department at UC Santa Cruz!</span> I am looking to build my lab and hire PhD students and postdocs.
 * **Dec 2021**: Exciting news! Our [Bayesian Image Reconstruction (BRGM) paper]((https://arxiv.org/pdf/2012.04567.pdf)) got the <span style="color:red">Best paper award</span> at the [NerIPS Deep Generative Models and Downstream Applications Workshop](https://dgms-and-applications.github.io/2021/). 
 * **Nov 2021**: Our Bayesian Image Reconstruction using Deep Generative Models paper has been accepted for an oral presentation at the NeurIPS Deep Generative Models Workshop. See [recorded talk and slides](https://recorder-v3.slideslive.com/?share=55113&s=b5acf15d-572b-41cb-b3e3-d2c6433475ef).
 * **Oct 2021**: Our TADPOLE Challenge results paper has been accepted in the MELBA journal.
