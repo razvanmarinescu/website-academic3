@@ -37,11 +37,8 @@ weight = 60
 
 * Manolis Nikolakakis
 * Najmeh Mashhadi
-
-**Incoming PhDs**<br>
-
-* Ehsan Mirafzali
-* Paul Killiam
+* Ehsan Mirafzali (incoming Sept 2023)
+* Paul Killiam (incoming Sept 2023)
 
 
 **Masters**<br>
