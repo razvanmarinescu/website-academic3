@@ -94,12 +94,12 @@ user_groups = ["Researchers"]
 
 +++
 
-**I'm currently hiring 3-4 PhD students (UCSC application deadline is 10 Jan 2023) or postdocs (can join anytime)!**  
+**I'm actively looking for a postdoc!**  
 
 <span style="color:red">Prospective PhDs/postdocs/undergrads/masters who want to work with me: see [here](#joinlab)</span>
 
 
-I am an Assistant Professor in the department of Computer Science and Engineering at UC Santa Cruz. My research focuses on Machine Learning and its applications to Healthcare and Biomolecular systems. 
+I am an Assistant Professor in the department of Computer Science and Engineering at UC Santa Cruz. My research focuses on Machine Learning and its applications to Healthcare and Biomolecular systems. I am also the co-founder and CTO of a drug screening start-up, [GiwoTech Inc](https://giwotech.com/). 
 
 
 During my PostDoc in [Polina Golland's lab](https://people.csail.mit.edu/polina/) at MIT, I worked on machine learning algorithms for healthcare applications. I currently develop generative models for natural images, Chest X-Rays and brain images, which can be used as prior models for image reconstruction tasks, using bayesian posterior optimisation.

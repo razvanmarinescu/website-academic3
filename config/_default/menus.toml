@@ -25,15 +25,26 @@
   weight = 4
 
 [[main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 5
+
+[[main]]
+  name = "Lab members"
+  url = "#lab"
+  weight = 6
+
+
+[[main]]
   name = "Projects"
   url = "#projects"
-  weight = 5
+  weight = 7
 
 
 [[main]]
   name = "Join My Lab"
   url = "#joinlab"
-  weight = 6
+  weight = 8
 
 
 #[[main]]

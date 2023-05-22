@@ -25,3 +25,20 @@ addProj:
 
 addTalk:
 	hugo new  --kind talk talk/martinos2019
+
+# need to install google cloud CLI for the below commands
+gssh:
+	gcloud compute ssh --zone "northamerica-northeast2-a" "f1-micro-academic" --project "website-386101"
+
+auth:
+	gcloud auth login
+
+gcp:
+	#gcloud compute scp public/* f1-micro-academic:/var/www/html --project "website-386101" --zone "northamerica-northeast2-a"
+	#gsutil cp -r public/* f1-micro-academic:/var/www/html --project "website-386101" --zone "northamerica-northeast2-a"
+	#gsutil cp -r   public/* f1-micro-academic:/var/www/html 
+	#scp -i ~/.ssh/google_compute_engine -r public/* razvan@34.0.32.224:/var/www/html/
+	# rsync specify key: -e "ssh -i ~/.ssh/google_compute_engine"
+	rsync -rav  -e "ssh -i ~/.ssh/google_compute_engine" -rav public/* razvan@34.0.32.224:/var/www/html/
+
+
