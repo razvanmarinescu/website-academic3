@@ -40,7 +40,7 @@ tags = []
 slides = ""
 
 # Optional filename of your slides within your talk folder or a URL.
-url_slides = "https://recorder-v3.slideslive.com/?share=55113&s=b5acf15d-572b-41cb-b3e3-d2c6433475ef"
+url_slides = "https://slideslive.com/38971378/bayesian-image-reconstruction-using-deep-generative-models"
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
@@ -52,7 +52,7 @@ projects = []
 
 # Links (optional).
 url_pdf = ""
-url_video = "https://recorder-v3.slideslive.com/?share=55113&s=b5acf15d-572b-41cb-b3e3-d2c6433475ef"
+url_video = "https://slideslive.com/38971378/bayesian-image-reconstruction-using-deep-generative-models"
 url_code = ""
 
 # Featured image
