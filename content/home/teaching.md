@@ -36,4 +36,10 @@ weight = 60
 * [CSE140: Intro to AI](https://courses.soe.ucsc.edu/courses/cse140) for upper-division undergraduates
 * [CSE290C: Advanced Machine Learning](https://courses.soe.ucsc.edu/courses/cse290C) seminar course, for Masters/PhD students. 
 
+**Lecture Recordings**
 
+CSE140 Intro to AI, Winter 2023 (17 lectures): 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=EKhgo5wi5sb_Utvj&amp;list=PL2hO0gXNMjfQQGdEmhJa7ciHPiW32ppwB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+CSE242 Machine Learning, Fall 2022 (18 lectures):
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=baQt2nfn9qFT8lo2&amp;list=PL2hO0gXNMjfRSliGY70HyL8O0c0Ymc3Ir" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
