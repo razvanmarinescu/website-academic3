@@ -1,8 +1,8 @@
 startServer:
-	hugo server
+	hugo server --disableFastRender
 
 compileSite:
-	hugo
+	hugo --disableFastRender
 
 # don't use athena
 copyToAthena:
