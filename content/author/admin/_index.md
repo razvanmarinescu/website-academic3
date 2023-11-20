@@ -94,7 +94,7 @@ user_groups = ["Researchers"]
 
 +++
 
-**I'm actively looking for a postdoc!**  
+<br>
 
 <span style="color:red">Prospective PhDs/postdocs/undergrads/masters who want to work with me: see [here](#joinlab)</span>
 

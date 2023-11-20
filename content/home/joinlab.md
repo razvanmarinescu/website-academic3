@@ -34,6 +34,6 @@ weight = 60
 +++
 
 * **Postdocs**: Email me directly. I hire all year round.
-* **PhD students**: Submit a PhD application through [UCSC grad amissions](https://applygrad.ucsc.edu/apply/). Current deadline is <span style="color:red">10 Jan 2023</span>. You are welcome to email me earlier to enquire about our lab or to visit us. 
-* **UCSC undergraduates/Masters students**: I can supervise you on a thesis project if we come up with a very interesting idea, or if you propose your own project. You're welcome to email me or my PhD students, so far Manolis Nikolakakis (enikolak at ucsc.edu) and [Najmeh Mashhadi](https://najmehmashhadi.com/), and ask them to suggest a project, or to brainstorm ideas. Another option is to start by helping one of my exiting PhD students on their project. Also see the [projects](#projects) and their associated readings.
+* **PhD students**: Submit a PhD application through [UCSC grad amissions](https://applygrad.ucsc.edu/apply/). The application deadline is in early January of every year. You are welcome to email me earlier to enquire about our lab or to visit us. 
+* **UCSC undergraduates/Masters students**: I can supervise you on a thesis project if we come up with a very interesting idea, or if you propose your own project. You're welcome to email me or my PhD students and ask them to suggest a project, or to brainstorm ideas. Another option is to start by helping one of my exiting PhD students on their project. Also see the [projects](#projects) and their associated readings.
 * **Visiting students**: If you're a PhD student or postdoc  from another research lab and want to visit us for 6-months or 1-year to gain more skills or collaborate, send me an email. 
