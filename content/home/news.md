@@ -33,7 +33,7 @@ weight = 10
   
 +++
 
-* **Oct 2023**: [InverseSR: 3D Brain MRI Super-Resolution Using a Latent Diffusion Model](https://arxiv.org/pdf/2308.12465.pdf). Updated code [here](https://github.com/BioMedAI-UCSC/InverseSR).
+* **Oct 2023**: New paper at MICCAI: [InverseSR: 3D Brain MRI Super-Resolution Using a Latent Diffusion Model](https://arxiv.org/pdf/2308.12465.pdf). Updated code [here](https://github.com/BioMedAI-UCSC/InverseSR).
 * **Feb 2023**: [Talk about my research](https://youtu.be/KMom0EeyaYI) in the UCSC AI club.
 * **July 2022**: <span style="color:red">I officially started as an Assistant Professor in the Computer Science and Engineering department at UC Santa Cruz!</span> I am looking to build my lab and hire PhD students and postdocs.
 * **Dec 2021**: Exciting news! Our [Bayesian Image Reconstruction (BRGM) paper]((https://arxiv.org/pdf/2012.04567.pdf)) got the <span style="color:red">Best paper award</span> at the [NeurIPS Deep Generative Models and Downstream Applications Workshop](https://dgms-and-applications.github.io/2021/). 
