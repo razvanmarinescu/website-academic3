@@ -16,3 +16,57 @@ video {
   max-width: 100%;
   display: block;
 }*/
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.person {
+    text-align: center;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    width: 200px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Vertically center align items */
+}
+
+
+.person img {
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+.person-name {
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+
+.square-container {
+    width: 200px; /* Set the desired width of the square container */
+    height: 200px; /* Set the desired height of the square container */
+    overflow: hidden; /* Hide any overflow content (crop the image) */
+}
+
+.square-image {
+    width: 100%; /* Ensure the image takes the full width of the container */
+    height: auto; /* Automatically adjust the height to maintain aspect ratio */
+    object-fit: cover; /* Crop and scale the image to cover the entire container */
+}

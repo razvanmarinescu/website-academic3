@@ -39,6 +39,7 @@ gcp:
 	#gsutil cp -r   public/* f1-micro-academic:/var/www/html 
 	#scp -i ~/.ssh/google_compute_engine -r public/* razvan@34.0.32.224:/var/www/html/
 	# rsync specify key: -e "ssh -i ~/.ssh/google_compute_engine"
-	rsync -rav  -e "ssh -i ~/.ssh/google_compute_engine" -rav public/* razvan@34.0.32.224:/var/www/html/
+	
+	hugo; rsync -rav  -e "ssh -i ~/.ssh/google_compute_engine" -rav public/* razvan@34.0.32.224:/var/www/html/
 
 

@@ -33,7 +33,49 @@ weight = 60
   
 +++
 
-**PhD students**
+
+<h2>PhD students</h2>
+<div class="gallery">
+        <div class="person">
+            <img src="img/manolis.png"/>
+            <figcaption><a href="https://manolisnikolakakis.github.io">Manolis Nikolakakis</a></figcaption>
+        </div>
+        <div class="person">
+            <img src="img/najmeh.jpg"/>
+            <figcaption><a href="https://najmehmashhadi.com/">Najmeh Mashhadi</a></figcaption>
+        </div>
+        <div class="person">
+            <img src="img/ehsan.png" />
+            <figcaption><a href="https://scholar.google.com/citations?user=rVyaz0oAAAAJ&hl=en">Ehsan Mirafzali</a></figcaption>
+        </div>
+        <div class="person">
+            <img src="img/paul.jpg"/>
+            <figcaption>Paul Killiam</figcaption>
+        </div>
+
+</div><br><br>
+
+
+<!-- <div class="gallery">
+<figure>
+    <img src="person1.jpg" alt="Person 1">
+    <figcaption>John Doe</figcaption>
+</figure>
+
+<figure>
+    <img src="person2.jpg" alt="Person 2">
+    <figcaption>Jane Smith</figcaption>
+</figure>
+
+<figure>
+    <img src="person3.jpg" alt="Person 3">
+    <figcaption>Bob Johnson</figcaption>
+</figure>
+
+</div> -->
+
+
+<!-- **PhD students**
 
 [Manolis Nikolakakis](https://manolisnikolakakis.github.io)
 <img src="https://manolisnikolakakis.github.io/assets/images/manoliswebsite.png" width="200" /><br>
@@ -41,24 +83,36 @@ weight = 60
 [Najmeh Mashhadi](https://najmehmashhadi.com/)
 <img src="https://najmehmashhadi.com/wp-content/uploads/2019/07/2-300x300.jpg" width="200" /><br>
 
-[Ehsan Mirafzali](https://scholar.google.com/citations?user=rVyaz0oAAAAJ&hl=en)
+[Ehsan Mirafzali](https://scholar.google.com/citations?user=rVyaz0oAAAAJ&hl=en) <img src="img/ehsan.png" width="200" /><br><br>
 
-Paul Killiam <img src="img/paul.jpg" width="200" /><br><br>
+Paul Killiam <img src="img/paul.jpg" width="200" /><br><br> -->
 
 
-**Masters students**<br>
+<h2>Masters students</h2>
 
-[Utkarsh Gupta](https://28utkarsh08.wixsite.com/home)
-<img src="https://static.wixstatic.com/media/cf2a18_db2fa1acf3d64ca3869b14dc425e97be~mv2.jpg/v1/crop/x_213,y_0,w_906,h_1244/fill/w_433,h_593,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/cropped_edited.jpg" width="200" /><br>
+<div class="gallery">
+        <div class="person">
+            <img src="img/utkarsh.jpg"  />
+            <figcaption><a href="https://28utkarsh08.wixsite.com/home">Utkarsh Gupta</a></figcaption>
+        </div>
+        <div class="person">
+            <img src="img/prathamesh.png"/>
+            <figcaption><a href="https://www.linkedin.com/in/prathamesh-khole-220258170/?originalSubdomain=in">Prathamesh Pradeep Khole</a></figcaption>
+        </div>
+        <div class="person">
+            <img src="img/BhriguGarg.png" />
+            <figcaption>Bhrigu Garg</figcaption>
+        </div>
+        <div class="person">
+            <img src="img/jesh.jpg"/>
+            <figcaption>Jeshwanth Bheemanpally</figcaption>
+        </div>
 
-[Prathamesh Pradeep Khole](https://www.linkedin.com/in/prathamesh-khole-220258170/?originalSubdomain=in)
-<img src="img/prathamesh.png" width="200" /><br>
+</div><br><br>
 
-Bhrigu Garg<img src="img/BhriguGarg.png " width="200" /><br>
 
-Jeshwanth Bheemanpally<img src="img/jesh.jpg " width="200" /><br>
 
-**Undergraduate students**<br>
+<h2>Undergraduate students</h2>
 
 * Sai Bhujangari 
 * Aanchel Shimkhada 
@@ -78,8 +132,9 @@ Jeshwanth Bheemanpally<img src="img/jesh.jpg " width="200" /><br>
 * Rahul Nadkarni 
 * Jonathan Vengosh
 * Annie Liu
+<br><br>
 
-**Alumni**
+<h2>Alumni</h2>
 
 [Sreevani Suvarna](https://www.linkedin.com/in/sreevani-suvarna/): Software Engineer at ADP<br>
 [Jueqi Wang](https://github.com/wendy-xiaozong): PhD student at BU
