@@ -70,3 +70,32 @@ body {
     height: auto; /* Automatically adjust the height to maintain aspect ratio */
     object-fit: cover; /* Crop and scale the image to cover the entire container */
 }
+
+
+
+.image-container {
+  position: relative;
+  text-align: center; /* Center-align the text horizontally */
+}
+
+.image-container img {
+  display: block; /* Make the image a block element for proper centering */
+  margin: 0 auto; /* Center-align the image horizontally within the container */
+}
+
+.tooltip {
+  position: absolute;
+  bottom: -20px; /* Adjust the distance from the image */
+  left: 50%;
+  transform: translateX(-50%); /* Center-align the text horizontally */
+  background-color: rgba(0, 0, 0, 0.7); /* Background color of the tooltip */
+  color: #fff; /* Text color of the tooltip */
+  padding: 5px 10px; /* Padding around the text */
+  border-radius: 5px; /* Rounded corners */
+  opacity: 0; /* Initially hide the tooltip */
+  transition: opacity 0.3s; /* Add a smooth transition effect */
+}
+
+.image-container:hover .tooltip {
+  opacity: 1; /* Show the tooltip on hover */
+}
