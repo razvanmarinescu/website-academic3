@@ -62,4 +62,32 @@ The main aim of this line of work is to implement such simulators for MRI (+diff
 
 ## Diffusion MRI
 
-We are working on a project setup for Diffusion MRI. 
+
+Diffusion MRI is a type of MRI which can be used to infer tissue microstructure (morphology of cells, packing density, orientation of neuronal axons, etc ...). It works by measuring the diffusion of water molecules, which is restricted by the cell and tissue compartments:
+
+
+
+See below a short video on how diffusion MRI works:
+
+<iframe width="706" height="397" src="https://www.youtube.com/embed/J_aamnpRJE8" title="Diffusion Weighted Imaging" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+In particular, diffusion MRI enables us to get these incredible images of white matter tracts in the brain: 
+
+![alt text](https://1.bp.blogspot.com/_xSko0mZJMTo/ScmswgXXGpI/AAAAAAAAAsE/q2D0W-V9s0Y/s640/Picture+13.png)
+
+We are working on a differentiable simulator for Diffusion MRI. For simulating diffusion MRI, an additional diffusion term is added to the Bloch equation, thus making the Bloch-Torrey equation:
+
+![](https://i.imgur.com/pT7Ape4.png)
+
+A diffusion MRI simulator called SpinDoctor has been proposed by Li et al, which solve the diffusion equation either through numerical integration, or using a [matrix formalism](https://www.sciencedirect.com/science/article/pii/S1090780797912337). We are currently working on re-implementing SpinDoctor in PyTorch in order to make it differentiable, and then perform gradient-based optimization of the 3D input meshes based on a given MRI signal.
+
+**Additional materials on MRI:**
+
+* RAD229: a fantastic course on MRI: https://www.youtube.com/watch?v=dNpILrLUvKs&list=PLscv4NA0bNSOWYDILwQPuXURMVkSaGuEU&ab_channel=Stanford-RAD229
+
+
+**Further reading on Diffusion MRI:**
+
+* SpinDoctor: https://pubmed.ncbi.nlm.nih.gov/31470126/

@@ -100,12 +100,12 @@ Paul Killiam <img src="img/paul.jpg" width="200" /><br><br> -->
             <figcaption><a href="https://www.linkedin.com/in/prathamesh-khole-220258170/?originalSubdomain=in">Prathamesh Pradeep Khole</a></figcaption>
         </div>
         <div class="person">
-            <img src="img/BhriguGarg.png" />
-            <figcaption>Bhrigu Garg</figcaption>
-        </div>
-        <div class="person">
             <img src="img/jesh.jpg"/>
             <figcaption>Jeshwanth Bheemanpally</figcaption>
+        </div>
+        <div class="person">
+            <img src="img/daniel.jpg"/>
+            <figcaption>Daniel Sabo</figcaption>
         </div>
 
 </div><br><br>
@@ -114,27 +114,24 @@ Paul Killiam <img src="img/paul.jpg" width="200" /><br><br> -->
 
 <h2>Undergraduate students</h2>
 
-* Sai Bhujangari 
-* Aanchel Shimkhada 
-* Anthony Reyna 
-* Akash Pandit 
 * Kevin Bachelor
-* Paul Kim 
+* Anderson Compalas
 * Arshia Kapil
-* Daniel Sabo
-* Aidan Au-Yeung
 * Anusha Pai
-* Vishruth Bharath
-* Junya Ihira
-* Andrew Kato
-* Ali Risheh
+* Daksh Shah
+* Arthur Wei
+* Sanya Murdeshwar
 * Justin Bui
 * Rahul Nadkarni 
 * Jonathan Vengosh
-* Annie Liu
+* Ariel Raizman
+* Jane Choi
+* Alex Feghhi
 <br><br>
 
 <h2>Alumni</h2>
 
 [Sreevani Suvarna](https://www.linkedin.com/in/sreevani-suvarna/): Software Engineer at ADP<br>
-[Jueqi Wang](https://github.com/wendy-xiaozong): PhD student at BU
+[Jueqi Wang](https://github.com/wendy-xiaozong): PhD student at BU<br>
+Junya Ihira: finished his exchange program at UCSC in 2023, returned to Japan<br>
+Bhrigu Garg: graduated in 2023<br>
