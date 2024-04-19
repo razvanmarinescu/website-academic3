@@ -10,7 +10,7 @@ title = "Join My Lab"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 70
 
 # Background (optional).
 #   Choose from a background color, gradient, or image.
