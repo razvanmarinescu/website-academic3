@@ -52,6 +52,19 @@ weight = 60
             <img src="img/paul.jpg"/>
             <figcaption>Paul Killiam</figcaption>
         </div>
+        <div class="person">
+            <img src="img/utkarsh.jpg"  />
+            <figcaption><a href="https://28utkarsh08.wixsite.com/home">Utkarsh Gupta</a></figcaption>
+        </div>
+        <div class="person">
+            <img src="img/daniel.jpg"/>
+            <figcaption>Daniel Sabo</figcaption>
+        </div>
+        <div class="person">
+            <img src="img/prathamesh.png"/>
+            <figcaption><a href="https://www.linkedin.com/in/prathamesh-khole-220258170/?originalSubdomain=in">Prathamesh Pradeep Khole</a></figcaption>
+        </div>
+
 
 </div><br><br>
 
@@ -88,27 +101,7 @@ weight = 60
 Paul Killiam <img src="img/paul.jpg" width="200" /><br><br> -->
 
 
-<h2>Masters students</h2>
 
-<div class="gallery">
-        <div class="person">
-            <img src="img/utkarsh.jpg"  />
-            <figcaption><a href="https://28utkarsh08.wixsite.com/home">Utkarsh Gupta</a></figcaption>
-        </div>
-        <div class="person">
-            <img src="img/prathamesh.png"/>
-            <figcaption><a href="https://www.linkedin.com/in/prathamesh-khole-220258170/?originalSubdomain=in">Prathamesh Pradeep Khole</a></figcaption>
-        </div>
-        <div class="person">
-            <img src="img/jesh.jpg"/>
-            <figcaption>Jeshwanth Bheemanpally</figcaption>
-        </div>
-        <div class="person">
-            <img src="img/daniel.jpg"/>
-            <figcaption>Daniel Sabo</figcaption>
-        </div>
-
-</div><br><br>
 
 
 
