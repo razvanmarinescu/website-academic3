@@ -33,6 +33,9 @@ weight = 10
   
 +++
 
+* **Oct 2024**: New paper at ISMIR on Generative Music in Medicine: https://lapis-rudbeckia-73a.notion.site/Generative-Music-Medicine-1134c5d62d4c80f2a3eee2c50451b416
+* **June 2024**: Our lab attended the [ML for drug discovery summer school](https://portal.ml4dd.com/) in Montreal, hosted by Valence Labs and MILA. 
+* **April 2024**: Visited 6 universities in India (IIT Kanpour, IIT Delhi, IIT Madras, IIIT Hyderabad, Shiv Nadar and Ashoka) for research collaborations and student recruitment
 * **Oct 2023**: New paper at MICCAI: [InverseSR: 3D Brain MRI Super-Resolution Using a Latent Diffusion Model](https://arxiv.org/pdf/2308.12465.pdf). Updated code [here](https://github.com/BioMedAI-UCSC/InverseSR).
 * **Feb 2023**: [Talk about my research](https://youtu.be/KMom0EeyaYI) in the UCSC AI club.
 * **July 2022**: <span style="color:red">I officially started as an Assistant Professor in the Computer Science and Engineering department at UC Santa Cruz!</span> I am looking to build my lab and hire PhD students and postdocs.

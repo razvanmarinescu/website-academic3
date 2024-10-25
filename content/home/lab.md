@@ -62,7 +62,15 @@ weight = 60
         </div>
         <div class="person">
             <img src="img/prathamesh.png"/>
-            <figcaption><a href="https://www.linkedin.com/in/prathamesh-khole-220258170/?originalSubdomain=in">Prathamesh Pradeep Khole</a></figcaption>
+            <figcaption><a href="https://www.linkedin.com/in/prathamesh-khole-220258170">Prathamesh Pradeep Khole</a></figcaption>
+        </div>
+        <div class="person">
+            <img src="img/ionut.jpg"/>
+            <figcaption><a href="https://www.linkedin.com/in/mistreanuionutcosmin/">Ionut Mistreanu</a></figcaption>
+        </div>
+        <div class="person">
+            <img src="img/ian.png"/>
+            <figcaption><a href="https://www.linkedin.com/in/ianmichaelterry/">Ian Terry</a></figcaption>
         </div>
 
 
@@ -103,23 +111,20 @@ Paul Killiam <img src="img/paul.jpg" width="200" /><br><br> -->
 
 
 
-
-
 <h2>Undergraduate students</h2>
 
 * Kevin Bachelor
 * Anderson Compalas
-* Arshia Kapil
 * Anusha Pai
 * Daksh Shah
 * Arthur Wei
 * Sanya Murdeshwar
 * Justin Bui
-* Rahul Nadkarni 
-* Jonathan Vengosh
 * Ariel Raizman
 * Jane Choi
 * Alex Feghhi
+* Cyrus Correll
+
 <br><br>
 
 <h2>Alumni</h2>
@@ -128,3 +133,5 @@ Paul Killiam <img src="img/paul.jpg" width="200" /><br><br> -->
 [Jueqi Wang](https://github.com/wendy-xiaozong): PhD student at BU<br>
 Junya Ihira: finished his exchange program at UCSC in 2023, returned to Japan<br>
 Bhrigu Garg: graduated in 2023<br>
+Rahul Nadkarni: MS student at NYU 
+Jonathan Vengosh: Software Engineer at Rimini Street

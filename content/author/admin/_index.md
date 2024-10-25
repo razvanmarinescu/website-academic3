@@ -112,4 +112,4 @@ I also have a keen interest in general machine learning and computational intell
 
 You can see a complete list of publications on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=AzfoycUAAAAJ) page. See my academic job market research statement [here](files/RazvanMarinescu_ResearchStatement.pdf).
 
-My partner [Leilani Gilpin](http://lgilpin.com) is also a researcher in ML, and does fantastic work on ML Explainability using logical reasoning methods. See her publications [here](https://scholar.google.com/citations?user=UFT_ijYAAAAJ&hl=en).
+My wife [Leilani Gilpin](http://lgilpin.com) is also a researcher in ML, and does fantastic work on ML Explainability using logical reasoning methods. See her publications [here](https://scholar.google.com/citations?user=UFT_ijYAAAAJ&hl=en).
