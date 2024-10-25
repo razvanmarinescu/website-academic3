@@ -1,6 +1,6 @@
 +++
 title = "Estimation of Brain Tissue Probability Maps using a Differentiable MRI Simulator"
-date = 2024-10-25T13:15:26-07:00
+date = 2024-07-25T13:15:26-07:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Utkarsh Gupta", "Emmanouil Nikolakakis", "Moritz Zaiss",  "Razvan Marinescu"]
