@@ -111,7 +111,7 @@ Paul Killiam <img src="img/paul.jpg" width="200" /><br><br> -->
 
 
 
-<h2>Undergraduate students</h2>
+<h2>Masters and Undergraduate students</h2>
 
 * Kevin Bachelor
 * Anderson Compalas
@@ -124,6 +124,13 @@ Paul Killiam <img src="img/paul.jpg" width="200" /><br><br> -->
 * Jane Choi
 * Alex Feghhi
 * Cyrus Correll
+* Jason Zhang
+* Andrew Bruce
+* Akshitha Nagaraj
+* Iman Yael Schaefer
+* Clayton Lau
+* Bora Dursun
+* 
 
 <br><br>
 
