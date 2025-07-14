@@ -130,7 +130,10 @@ Paul Killiam <img src="img/paul.jpg" width="200" /><br><br> -->
 * Iman Yael Schaefer
 * Clayton Lau
 * Bora Dursun
-* 
+* Akshat Tiwari
+* Amisha Kandi
+* Anish Pahilajani
+* Philip Bizimis 
 
 <br><br>
 

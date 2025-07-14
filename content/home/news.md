@@ -33,6 +33,9 @@ weight = 10
   
 +++
 
+* **May 2025**: Prathamesh presented a posted in ISMRM poster on [ReMiDi: Microstructure reconstruction using a differentiable MRI simulator](https://arxiv.org/pdf/2502.01988). 
+* **March 2025**: Malliavin Calculus can can be applied to AI-based Diffusion Models! Check our two new pre-prints: [Malliavin Calculus for Diffusion Models](https://arxiv.org/abs/2503.16917) (more applied, contains numerical results) and [A Malliavin calculus approach to score functions
+in diffusion generative models](https://arxiv.org/pdf/2507.05550) (more theoretical, covering the general case)
 * **Oct 2024**: New paper at ISMIR on Generative Music in Medicine: https://lapis-rudbeckia-73a.notion.site/Generative-Music-Medicine-1134c5d62d4c80f2a3eee2c50451b416
 * **June 2024**: Our lab attended the [ML for drug discovery summer school](https://portal.ml4dd.com/) in Montreal, hosted by Valence Labs and MILA. 
 * **April 2024**: Visited 6 universities in India (IIT Kanpour, IIT Delhi, IIT Madras, IIIT Hyderabad, Shiv Nadar and Ashoka) for research collaborations and student recruitment
