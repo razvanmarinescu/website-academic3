@@ -40,6 +40,8 @@ gcp:
 	#scp -i ~/.ssh/google_compute_engine -r public/* razvan@34.0.32.224:/var/www/html/
 	# rsync specify key: -e "ssh -i ~/.ssh/google_compute_engine"
 	
-	hugo; rsync -rav  -e "ssh -i ~/.ssh/google_compute_engine" -rav public/* razvan@34.0.32.224:/var/www/html/
+	# it sometimes fails for large files, simply rerun until it works.
+	hugo; rsync -av --timeout=600 --partial --progress -e "ssh -i ~/.ssh/google_compute_engine -o ServerAliveInterval=60 -o ServerAliveCountMax=10" public/* razvan@34.0.32.224:/var/www/html/
+
 
 
