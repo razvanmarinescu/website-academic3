@@ -49,10 +49,6 @@ weight = 60
             <figcaption><a href="https://scholar.google.com/citations?user=rVyaz0oAAAAJ&hl=en">Ehsan Mirafzali</a></figcaption>
         </div>
         <div class="person">
-            <img src="img/paul.jpg"/>
-            <figcaption>Paul Killiam</figcaption>
-        </div>
-        <div class="person">
             <img src="img/utkarsh.jpg"  />
             <figcaption><a href="https://28utkarsh08.wixsite.com/home">Utkarsh Gupta</a></figcaption>
         </div>
@@ -71,6 +67,10 @@ weight = 60
         <div class="person">
             <img src="img/ian.png"/>
             <figcaption><a href="https://www.linkedin.com/in/ianmichaelterry/">Ian Terry</a></figcaption>
+        </div>
+                <div class="person">
+            <img src="img/andrew.jpg"/>
+            <figcaption>Andrew Bruce</figcaption>
         </div>
 
 
