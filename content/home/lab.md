@@ -33,6 +33,13 @@ weight = 60
   
 +++
 
+<h2>Postdocs</h2>
+<!-- <div class="gallery"> -->
+    <div class="person" style="margin-left: 0.5in;">
+        <img src="img/sanjit.jpg"/>
+        <figcaption style="text-align: left;"><a href="https://www.sanjitshashi.com/">Sanjit Shashi</a></figcaption>
+    </div>
+<!-- </div> -->
 
 <h2>PhD students</h2>
 <div class="gallery">
