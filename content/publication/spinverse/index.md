@@ -2,9 +2,9 @@
 title = "Spinverse: Differentiable Physics for Permeability-Aware Microstructure Reconstruction from Diffusion MRI"
 date = 2026-03-04T12:00:00Z
 authors = ["Prathamesh Pradeep Khole", "Mario M. Brenes", "Zahra Kais Petiwala", "Ehsan Mirafzali", "Utkarsh Gupta", "Jing-Rebecca Li", "Andrada Ianus", "Razvan Marinescu"]
-publication_types = ["3"]
-publication = "arXiv preprint"
-publication_short = "arXiv preprint"
+publication_types = ["1"]
+publication = "MICCAI 2026"
+publication_short = "MICCAI 2026"
 abstract = "Spinverse uses differentiable physics to reconstruct tissue boundaries and permeability from simulated diffusion MRI measurements."
 summary = "Spinverse uses differentiable physics to reconstruct tissue boundaries and permeability from simulated diffusion MRI measurements."
 doi = ""
