@@ -14,12 +14,4 @@ projects = []
 url_pdf = "https://arxiv.org/pdf/2509.14600"
 url_preprint = "https://arxiv.org/abs/2509.14600"
 links = [{name = "Publication", url = "https://arxiv.org/abs/2509.14600"}]
-[image]
-  caption = "Figure 1: Ground-truth and predicted free-energy landscapes"
-  focal_point = "Center"
-  fit = true
 +++
-
-![Extract from the paper: Figure 1: Ground-truth and predicted free-energy landscapes](figure.png)
-
-Figure 1: Ground-truth and predicted free-energy landscapes. [Source paper, page 3](https://arxiv.org/pdf/2509.14600).
