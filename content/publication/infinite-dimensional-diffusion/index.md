@@ -15,11 +15,11 @@ url_pdf = "https://arxiv.org/pdf/2508.20316"
 url_preprint = "https://arxiv.org/abs/2508.20316"
 links = [{name = "Publication", url = "https://arxiv.org/abs/2508.20316"}]
 [image]
-  caption = "Figure 1: Numerical validation of the Malliavin score formula"
+  caption = "Figure 1 (top panels): Numerical validation of the Malliavin score formula for the heat equation and Ornstein–Uhlenbeck process"
   focal_point = "Center"
   fit = true
 +++
 
-![Extract from the paper: Figure 1: Numerical validation of the Malliavin score formula](figure.png)
+![Extract from the paper: Figure 1 (top panels): Numerical validation of the Malliavin score formula for the heat equation and Ornstein–Uhlenbeck process](figure.png)
 
-Figure 1: Numerical validation of the Malliavin score formula. [Source paper, page 20](https://arxiv.org/pdf/2508.20316).
+Figure 1 (top panels): Numerical validation of the Malliavin score formula for the heat equation and Ornstein–Uhlenbeck process. [Source paper, page 20](https://arxiv.org/pdf/2508.20316).
