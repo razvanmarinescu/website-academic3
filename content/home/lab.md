@@ -66,6 +66,11 @@ weight = 60
             <img src="img/kevin.jpg" alt="Kevin Bachelor"/>
             <figcaption><a href="https://scholar.google.com/citations?user=J2kyLP0AAAAJ">Kevin Bachelor</a></figcaption>
         </div>
+        <!-- Portrait source: https://www.pratikkatte.com/images/pratik.jpg -->
+        <div class="person">
+            <img src="img/pratik.jpg" alt="Pratik Katte"/>
+            <figcaption><a href="https://www.pratikkatte.com/">Pratik Katte</a><br><small>(with Russ Corbett-Detig)</small></figcaption>
+        </div>
 </div><br><br>
 
 
@@ -106,6 +111,7 @@ Paul Killiam <img src="img/paul.jpg" width="200" /><br><br> -->
 <h2>Masters and Undergraduate students</h2>
 
 * Cyrus Correll: Leads Hepatitis B capsid self-assembly team
+* Sameera (Sam) Kashyap: Mars climate simulations
 
 <br><br>
 
