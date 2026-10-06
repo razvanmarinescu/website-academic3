@@ -61,12 +61,10 @@ weight = 60
         <div class="person">
             <img src="img/sanya.jpg" alt="Sanya Murdeshwar"/>
             <figcaption><a href="https://scholar.google.com/citations?user=ULXk_34AAAAJ">Sanya Murdeshwar</a></figcaption>
-            <p style="font-size: 0.8rem; margin: 0.5rem 0 0;">Active Learning for MD paper accepted at ICML workshop</p>
         </div>
         <div class="person">
             <img src="img/kevin.jpg" alt="Kevin Bachelor"/>
             <figcaption><a href="https://scholar.google.com/citations?user=J2kyLP0AAAAJ">Kevin Bachelor</a></figcaption>
-            <p style="font-size: 0.8rem; margin: 0.5rem 0 0;">AI for MD; Active Learning for MD paper at ICML workshop</p>
         </div>
 </div><br><br>
 
@@ -116,76 +114,76 @@ Paul Killiam <img src="img/paul.jpg" width="200" /><br><br> -->
 * [Sanjit Shashi](https://www.sanjitshashi.com/)
 * [Manolis Nikolakakis](https://manolisnikolakakis.github.io)
 * [Najmeh Mashhadi](https://najmehmashhadi.com/)
-* Daniel Sabo
+* [Daniel Sabo](https://www.linkedin.com/in/danielnsabo/)
 * [Ian Terry](https://www.linkedin.com/in/ianmichaelterry/)
-* Anderson Compalas
-* Anusha Pai: MD project; parallelized file processing
-* Daksh Shah: Regularly attended MD meetings, now works on computer vision
+* [Anderson Compalas](https://acompalas.github.io/)
+* [Anusha Pai](https://www.linkedin.com/in/anushapai/): MD project; parallelized file processing
+* [Daksh Shah](https://dakshshah.com/): Regularly attended MD meetings, now works on computer vision
 * Arthur Wei
-* Justin Bui: Gaussian Splatting (with Manolis)
-* Ariel Raizman: HMM for nanopore methylation (with Hans Boeger)
+* [Justin Bui](https://www.linkedin.com/in/justin-bui-263776218/): Gaussian Splatting (with Manolis)
+* [Ariel Raizman](https://www.linkedin.com/in/arielraizman/): HMM for nanopore methylation (with Hans Boeger)
 * Jane Choi
-* Alex Feghhi
+* [Alex Feghhi](https://www.linkedin.com/in/alex-feghhi/)
 * Jason Zhang: Protein-simulation AI; simulated 2000+ peptide pairs
-* Akshitha Nagaraj: Leads DNA-simulation sub-team; helped build useful pipelines
-* Clayton Lau: Parallelized MD preprocessing; ligands support
+* [Akshitha Nagaraj](https://www.linkedin.com/in/akshitha-nagaraj/): Leads DNA-simulation sub-team; helped build useful pipelines
+* [Clayton Lau](https://www.linkedin.com/in/clayton-a-lau/): Parallelized MD preprocessing; ligands support
 * Bora Dursun: Diff. programming; diff. bubble sort; diff. DES; key-recovery
-* Akshat Tiwari
-* Amisha Kandi: Differentiable programming; attended our meetings, read EDP Ch.5–6
-* Anish Pahilajani
-* Philip Bizimis: Diff. programming; diff. DES; read Hayes' cryptanalysis tutorial
+* [Akshat Tiwari](https://tiwariakshat47.github.io/)
+* [Amisha Kandi](https://www.linkedin.com/in/amisha-kandi/): Differentiable programming; attended our meetings, read EDP Ch.5–6
+* [Anish Pahilajani](https://www.linkedin.com/in/anish-p13/)
+* [Philip Bizimis](https://www.linkedin.com/in/philip-bizimis/): Diff. programming; diff. DES; read Hayes' cryptanalysis tutorial
 * [Sreevani Suvarna](https://www.linkedin.com/in/sreevani-suvarna/): Software Engineer at ADP; ML compositionality; graph of neural nets
 * [Jueqi Wang](https://github.com/wendy-xiaozong): PhD student at BU; External student (StFX, Canada); MICCAI paper (top AC score)
 * Junya Ihira: finished his exchange program at UCSC, returned to Japan
-* Bhrigu Garg: ML compositionality; StyleGAN on brain images; scaling on Nautilus
-* Rahul Nadkarni: MS student at NYU; Gaussian Splatting (with Manolis)
-* Jonathan Vengosh: Software Engineer at Rimini Street; Gaussian Splatting (with Manolis)
-* Decker Krogh: Diff. programming; diff. bubble sort; diff. DES; key-recovery
-* Mario Brenes: LLaMA mesh; ReMiDi-V2 diagnostics; diffusion MRI meetings
-* Peter Cai: Explainable CT denoising (with Manolis)
-* Abhishek Chavan: MRI Simulations on ultra-large resolution brains from NextBrain
-* Avani Kinikar: Full brain slice reconstruction from diffusion MRI
+* [Bhrigu Garg](https://www.linkedin.com/in/bhrigu-garg/): ML compositionality; StyleGAN on brain images; scaling on Nautilus
+* [Rahul Nadkarni](https://www.linkedin.com/in/rnadkarni3/): MS student at NYU; Gaussian Splatting (with Manolis)
+* [Jonathan Vengosh](https://www.linkedin.com/in/jonathan-vengosh/): Software Engineer at Rimini Street; Gaussian Splatting (with Manolis)
+* [Decker Krogh](https://www.linkedin.com/in/decker-krogh-508463254/): Diff. programming; diff. bubble sort; diff. DES; key-recovery
+* [Mario Brenes](https://www.linkedin.com/in/mario-brenes/): LLaMA mesh; ReMiDi-V2 diagnostics; diffusion MRI meetings
+* [Peter Cai](https://www.linkedin.com/in/yocai/): Explainable CT denoising (with Manolis)
+* [Abhishek Chavan](https://www.linkedin.com/in/abhishek2312/): MRI Simulations on ultra-large resolution brains from NextBrain
+* [Avani Kinikar](https://www.linkedin.com/in/avanikinikar/): Full brain slice reconstruction from diffusion MRI
 * Ritesh Kumar: Explainable CT denoising (with Manolis)
-* Pakhi Sinha: Low-res MRI SR; NextBrain (with Utkarsh)
-* Ashwani Rathee: Improved BMapEst metrics (with Utkarsh)
-* Mohit Agrawal: ADNI-2 brain digital twins (GM/WM/CSF)
+* [Pakhi Sinha](https://itspakhi.com/): Low-res MRI SR; NextBrain (with Utkarsh)
+* [Ashwani Rathee](https://ashwanirathee.com/): Improved BMapEst metrics (with Utkarsh)
+* [Mohit Agrawal](https://www.linkedin.com/in/mohit-agrawal-58a548206/): ADNI-2 brain digital twins (GM/WM/CSF)
 * Douglas Lin: External; added ability of ML model to simulate ligand dynamics
-* Stephanie Lin: Summer visitor (UC Merced), worked on AI-driven DNA simulations
+* [Stephanie Lin](https://www.linkedin.com/in/stephanie-lin-sl/): Summer visitor (UC Merced), worked on AI-driven DNA simulations
 * Tamanna Iyyani: MRI super-resolution (with Utkarsh)
-* Joshua Li: ADNI-2 brain digital twins (with Utkarsh)
-* Iman Yael Schaefer: Maglite videography (with Utkarsh)
-* Dyuthi Vijay: ADNI-2 brain digital twins (with Utkarsh)
-* Alexander Aghili: Energy Matching; weighted ensemble MD, paper at ICML workshop + benchmark paper in review at JPC, Best Poster Award at SIAM
+* [Joshua Li](https://jishli113.github.io/jli-portfolio/): ADNI-2 brain digital twins (with Utkarsh)
+* [Iman Yael Schaefer](https://imanschaefer.com/): Maglite videography (with Utkarsh)
+* [Dyuthi Vijay](https://dyuthiv05.github.io/): ADNI-2 brain digital twins (with Utkarsh)
+* [Alexander Aghili](https://alexanderaghili.com/): Energy Matching; weighted ensemble MD, paper at ICML workshop + benchmark paper in review at JPC, Best Poster Award at SIAM
 * Zahra Petiwala: Dean's Award; diffusion MRI simulators; ICML + workshops
 * Paul Kim: MD project; ran several ML models for protein simulations
-* Arshia Kapil: MD tasks support, attended our meetings
+* [Arshia Kapil](https://www.linkedin.com/in/arshiakapil/): MD tasks support, attended our meetings
 * Aidan Maldonado: MD project, attended our meetings
 * Ish Khandel: ML compositionality, built functions on the backend
 * Annie Liu: Audited CSE290C, brief MRI work
-* Srilekha Vutukuru: ML compositionality; capstone
-* Vedu Mallela: BrainPainter mouse brains; arXiv technical report
-* Thomas Liao: Whole brain emulation (with Randall Koene, CarbonCopies)
+* [Srilekha Vutukuru](https://www.linkedin.com/in/srilekha-vutukuru/): ML compositionality; capstone
+* [Vedu Mallela](https://vmallela.com/): BrainPainter mouse brains; arXiv technical report
+* [Thomas Liao](https://tliao.net/): Whole brain emulation (with Randall Koene, CarbonCopies)
 * Jonathan Morris: MRI scanner: 3D printing, PCBs, gradients, B0, slugmapper
 * Julia Wong: Gaussian Splatting for CT images (with Manolis)
 * Logan: Maglite 3D modelling; renders (with Utkarsh)
-* Amber Borjigin: Passive shimming (with Utkarsh)
-* Tisha Gangar: Weighted-ensemble MD (with Cyrus)
+* [Amber Borjigin](https://www.linkedin.com/in/amber-borjigin/): Passive shimming (with Utkarsh)
+* [Tisha Gangar](https://www.linkedin.com/in/tisha-gangar-700583350/): Weighted-ensemble MD (with Cyrus)
 * Shreya Handa: HBV protein simulations (with Cyrus)
 * Ben Hess: Passive shimming (with Utkarsh)
-* Neil Karkhanis: Gradient-coil designs (open MRI)
-* Eric Kimbrell: Whole slide imaging (WSI) deep learning (with Manolis); MD meetings participant
+* [Neil Karkhanis](https://www.linkedin.com/in/neil-km/): Gradient-coil designs (open MRI)
+* [Eric Kimbrell](https://www.linkedin.com/in/ericnkimbrell/): Whole slide imaging (WSI) deep learning (with Manolis); MD meetings participant
 * Edison Kuo: MRI console software; website (with Utkarsh)
 * Sneha Kupili: ADNI-2 data collection (with Utkarsh)
-* Nina Lane: Gradient coils; RF switch (with Utkarsh)
-* Ember Lu: AI-driven MD simulations for the Hepatitis B virus (with Cyrus)
-* Maximilian Miller: Slugmapper (with Utkarsh)
-* Victoria Pacheco: Active shimming; gradients (with Utkarsh)
+* [Nina Lane](https://www.linkedin.com/in/nina-lane-286817326/): Gradient coils; RF switch (with Utkarsh)
+* [Ember Lu](https://www.linkedin.com/in/ember-lu/): AI-driven MD simulations for the Hepatitis B virus (with Cyrus)
+* [Maximilian Miller](https://www.linkedin.com/in/maximilian-e-miller/): Slugmapper (with Utkarsh)
+* [Victoria Pacheco](https://www.linkedin.com/in/victoria-f-pacheco/): Active shimming; gradients (with Utkarsh)
 * Eliot Watchell: RF development for Maglite (with Utkarsh)
 * Justin Xu: MRI sequences; BMapEst metrics (with Utkarsh)
 * Dhruvanshi Shah: ADNI-2 brain digital twins (with Utkarsh)
 * Ashish Srivastava: ADNI-2 brain digital twins (with Utkarsh)
-* Mason Brown: WSI DL; explainable CT (with Emmanouil)
+* [Mason Brown](https://www.linkedin.com/in/mason-s-brown/): WSI DL; explainable CT (with Emmanouil)
 * Shri Prathaa: External (IIT Madras); built a spectral autoencoder prior for dMRI
 * Russel Elliot: LLaMA mesh; Llama 3.1 structures (with Prathamesh)
-* Phil Liu: FEM vectorization attempts for ReMiDi (with Prathamesh)
-* Sreyes Venkatesh: Spiking Neural Networks (with Jason Eshranighan); NICE 2024 paper
+* [Phil Liu](https://www.linkedin.com/in/philzliu/): FEM vectorization attempts for ReMiDi (with Prathamesh)
+* [Sreyes Venkatesh](https://www.linkedin.com/in/sreyes-venkatesh/): Spiking Neural Networks (with Jason Eshranighan); NICE 2024 paper
