@@ -99,3 +99,13 @@ body {
 .image-container:hover .tooltip {
   opacity: 1; /* Show the tooltip on hover */
 }
+
+.former-students > summary {
+  color: inherit;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.former-students[open] > summary {
+  margin-bottom: 1rem;
+}

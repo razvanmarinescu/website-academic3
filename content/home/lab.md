@@ -111,10 +111,12 @@ Paul Killiam <img src="img/paul.jpg" width="200" /><br><br> -->
 
 <h2>Former students</h2>
 
-* [Sanjit Shashi](https://www.sanjitshashi.com/)
-* [Manolis Nikolakakis](https://manolisnikolakakis.github.io)
-* [Najmeh Mashhadi](https://najmehmashhadi.com/)
-* [Daniel Sabo](https://www.linkedin.com/in/danielnsabo/)
+{{< former_students >}}
+
+* [Sanjit Shashi](https://www.sanjitshashi.com/): AI for science, holographic generative modelling, and AI-driven molecular dynamics
+* [Manolis Nikolakakis](https://manolisnikolakakis.github.io): Image reconstruction, brain CT, and neural skeletons
+* [Najmeh Mashhadi](https://najmehmashhadi.com/): Machine learning compositionality and generative models in medicine
+* [Daniel Sabo](https://www.linkedin.com/in/danielnsabo/): AI models for coarse-grained molecular dynamics
 * [Ian Terry](https://www.linkedin.com/in/ianmichaelterry/)
 * [Anderson Compalas](https://acompalas.github.io/)
 * [Anusha Pai](https://www.linkedin.com/in/anushapai/): Molecular dynamics data processing
@@ -187,3 +189,5 @@ Paul Killiam <img src="img/paul.jpg" width="200" /><br><br> -->
 * Russel Elliot: Language models for mesh generation
 * [Phil Liu](https://www.linkedin.com/in/philzliu/): Finite element computation for diffusion MRI simulation
 * [Sreyes Venkatesh](https://www.linkedin.com/in/sreyes-venkatesh/): Spiking neural networks with Jason Eshraghian; NICE conference paper
+
+{{< /former_students >}}
