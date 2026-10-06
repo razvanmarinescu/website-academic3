@@ -132,10 +132,58 @@ Paul Killiam <img src="img/paul.jpg" width="200" /><br><br> -->
 * Amisha Kandi
 * Anish Pahilajani
 * Philip Bizimis
-
-[Sreevani Suvarna](https://www.linkedin.com/in/sreevani-suvarna/): Software Engineer at ADP<br>
-[Jueqi Wang](https://github.com/wendy-xiaozong): PhD student at BU<br>
-Junya Ihira: finished his exchange program at UCSC in 2023, returned to Japan<br>
-Bhrigu Garg: graduated in 2023<br>
-Rahul Nadkarni: MS student at NYU 
-Jonathan Vengosh: Software Engineer at Rimini Street
+* [Sreevani Suvarna](https://www.linkedin.com/in/sreevani-suvarna/): Software Engineer at ADP
+* [Jueqi Wang](https://github.com/wendy-xiaozong): PhD student at BU
+* Junya Ihira: finished his exchange program at UCSC, returned to Japan
+* Bhrigu Garg
+* Rahul Nadkarni: MS student at NYU
+* Jonathan Vengosh: Software Engineer at Rimini Street
+* Decker Krogh
+* Mario Brenes
+* Peter Cai
+* Abhishek Chavan
+* Avani Kinikar
+* Ritesh Kumar
+* Pakhi Sinha
+* Ashwani Rathee
+* Mohit Agrawal
+* Douglas Lin
+* Stephanie Lin
+* Tamanna Iyyani
+* Joshua Li
+* Iman Yael Schaefer
+* Dyuthi Vijay
+* Alexander Aghili
+* Zahra Petiwala
+* Paul Kim
+* Arshia Kapil
+* Aidan Maldonado
+* Ish Khandel
+* Annie Liu
+* Srilekha Vutukuru
+* Vedu Mallela
+* Thomas Liao
+* Jonathan Morris
+* Julia Wong
+* Logan
+* Amber Borjigin
+* Tisha Gangar
+* Shreya Handa
+* Ben Hess
+* Neil Karkhanis
+* Eric Kimbrell
+* Edison Kuo
+* Sneha Kupili
+* Nina Lane
+* Ember Lu
+* Maximilian Miller
+* Victoria Pacheco
+* Eliot Watchell
+* Justin Xu
+* Dhruvanshi Shah
+* Ashish Srivastava
+* Mason Brown
+* Shri Prathaa
+* Russel Elliot
+* Phil Liu
+* Sreyes Venkatesh
