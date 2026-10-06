@@ -6,7 +6,7 @@ tags = []
 summary = "Using multimodal MRI and differentiable simulators to infer virtual brains."
 external_link = ""
 [image]
-  caption = "A virtual brain surface with highlighted anatomical regions."
+  caption = "Diffusion MRI visualization of brain connections. Credit: Anastasia Yendiki and Viviana Siless, MGH/Harvard/BANDA, via [NIMH](https://www.nimh.nih.gov/news/science-updates/2016/human-connectome-project-marks-its-first-phase)."
   focal_point = "Center"
 +++
 
