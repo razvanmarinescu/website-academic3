@@ -14,12 +14,4 @@ projects = []
 url_pdf = "https://arxiv.org/pdf/2510.25773"
 url_preprint = "https://arxiv.org/abs/2510.25773"
 links = [{name = "Publication", url = "https://arxiv.org/abs/2510.25773"}]
-[image]
-  caption = "Figure 1: Ground-truth and predicted latent-space probabilities"
-  focal_point = "Center"
-  fit = true
 +++
-
-![Extract from the paper: Figure 1: Ground-truth and predicted latent-space probabilities](figure.png)
-
-Figure 1: Ground-truth and predicted latent-space probabilities. [Source paper, page 8](https://arxiv.org/pdf/2510.25773).
