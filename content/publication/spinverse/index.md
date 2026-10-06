@@ -17,6 +17,7 @@ links = [{name = "Publication", url = "https://arxiv.org/abs/2603.04638"}]
 [image]
   caption = "Figure 1: Spinverse reconstruction pipeline"
   focal_point = "Center"
+  fit = true
 +++
 
 ![Extract from the paper: Figure 1: Spinverse reconstruction pipeline](figure.png)

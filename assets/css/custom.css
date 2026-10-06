@@ -111,3 +111,13 @@ body {
 .older-news[open] > summary {
   margin-bottom: 1rem;
 }
+
+/* Preserve paper figures without padded canvases or clipped diagram edges. */
+.card-simple .publication-figure {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  max-height: 517px;
+  margin: 1.25rem auto;
+}

@@ -17,6 +17,7 @@ links = [{name = "Publication", url = "https://arxiv.org/abs/2510.25773"}]
 [image]
   caption = "Figure 1: Ground-truth and predicted latent-space probabilities"
   focal_point = "Center"
+  fit = true
 +++
 
 ![Extract from the paper: Figure 1: Ground-truth and predicted latent-space probabilities](figure.png)

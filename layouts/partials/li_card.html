@@ -72,8 +72,11 @@
   {{ with $resource }}
   {{ $pic_width := $item.Params.image.pic_width | default 718 }}
   {{ $image := .Fill (printf "%dx517 q90 %s" $pic_width $anchor) }}
+  {{ if $item.Params.image.fit }}
+    {{ $image = .Fit (printf "%dx517 q90" $pic_width) }}
+  {{ end }}
   <a href="{{ $item.RelPermalink }}">
-      <img src="{{ $image.RelPermalink }}" class="article-banner" itemprop="image" alt="">
+      <img src="{{ $image.RelPermalink }}" class="article-banner{{ if $item.Params.image.fit }} publication-figure{{ end }}" itemprop="image" alt="">
   </a>
   {{end}}
 

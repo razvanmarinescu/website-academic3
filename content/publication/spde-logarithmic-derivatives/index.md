@@ -17,6 +17,7 @@ links = [{name = "Publication", url = "https://arxiv.org/abs/2608.21805"}]
 [image]
   caption = "Figure 1: Numerical validation across stochastic PDEs"
   focal_point = "Center"
+  fit = true
 +++
 
 ![Extract from the paper: Figure 1: Numerical validation across stochastic PDEs](figure.png)

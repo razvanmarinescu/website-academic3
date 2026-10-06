@@ -17,6 +17,7 @@ links = [{name = "Publication", url = "https://arxiv.org/abs/2507.05550"}]
 [image]
   caption = "Theorem 2.1: Score-function representation (equation excerpt; this paper contains no figures)"
   focal_point = "Center"
+  fit = true
 +++
 
 ![Extract from the paper: Theorem 2.1: Score-function representation (equation excerpt; this paper contains no figures)](figure.png)

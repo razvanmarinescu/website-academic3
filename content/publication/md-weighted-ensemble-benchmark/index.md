@@ -17,6 +17,7 @@ links = [{name = "Publication", url = "https://doi.org/10.1021/acs.jpcb.5c05365"
 [image]
   caption = "Figure 1: Weighted ensemble benchmarking framework"
   focal_point = "Center"
+  fit = true
 +++
 
 ![Extract from the paper: Figure 1: Weighted ensemble benchmarking framework](figure.png)

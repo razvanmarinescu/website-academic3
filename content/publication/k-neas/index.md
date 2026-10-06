@@ -17,6 +17,7 @@ links = [{name = "Publication", url = "https://arxiv.org/abs/2607.14415"}]
 [image]
   caption = "Figure 4: CT reconstruction comparisons"
   focal_point = "Center"
+  fit = true
 +++
 
 ![Extract from the paper: Figure 4: CT reconstruction comparisons](figure.png)

@@ -17,6 +17,7 @@ links = [{name = "Publication", url = "https://arxiv.org/abs/2509.17208"}]
 [image]
   caption = "Figure 1: Active learning pipeline"
   focal_point = "Center"
+  fit = true
 +++
 
 ![Extract from the paper: Figure 1: Active learning pipeline](figure.png)

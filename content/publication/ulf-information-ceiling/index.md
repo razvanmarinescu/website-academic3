@@ -17,6 +17,7 @@ links = [{name = "Publication", url = "https://arxiv.org/abs/2609.36837"}]
 [image]
   caption = "Figure 3: Anatomical detail and the measured information ceiling"
   focal_point = "Center"
+  fit = true
 +++
 
 ![Extract from the paper: Figure 3: Anatomical detail and the measured information ceiling](figure.png)

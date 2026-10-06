@@ -17,6 +17,7 @@ links = [{name = "Publication", url = "https://arxiv.org/abs/2601.22033"}]
 [image]
   caption = "Figure 1: Holographic encoding of an MNIST sample"
   focal_point = "Center"
+  fit = true
 +++
 
 ![Extract from the paper: Figure 1: Holographic encoding of an MNIST sample](figure.png)

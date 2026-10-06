@@ -17,6 +17,7 @@ links = [{name = "Publication", url = "https://www.nature.com/articles/s41598-02
 [image]
   caption = "Figure 1: Compositional graph for Alzheimer’s disease detection"
   focal_point = "Center"
+  fit = true
 +++
 
 ![Extract from the paper: Figure 1: Compositional graph for Alzheimer’s disease detection](figure.png)

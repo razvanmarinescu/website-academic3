@@ -17,6 +17,7 @@ links = [{name = "Publication", url = "https://arxiv.org/abs/2605.12823"}]
 [image]
   caption = "Figure 1: Hessian-vector product matching pipeline"
   focal_point = "Center"
+  fit = true
 +++
 
 ![Extract from the paper: Figure 1: Hessian-vector product matching pipeline](figure.png)
