@@ -19,8 +19,6 @@ links = [{name = "Publication", url = "https://arxiv.org/abs/2508.20316"}]
   focal_point = "Center"
 +++
 
-Malliavin calculus provides a foundation for [score-based diffusion models in infinite dimensions](https://arxiv.org/abs/2508.20316), with score formulas for generative modelling in function spaces.
-
 ![Extract from the paper: Figure 1: Numerical validation of the Malliavin score formula](figure.png)
 
 Figure 1: Numerical validation of the Malliavin score formula. [Source paper, page 20](https://arxiv.org/pdf/2508.20316).

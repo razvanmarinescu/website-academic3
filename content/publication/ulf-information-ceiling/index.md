@@ -19,8 +19,6 @@ links = [{name = "Publication", url = "https://arxiv.org/abs/2609.36837"}]
   focal_point = "Center"
 +++
 
-[How much detail can ultra-low-field MRI recover?](https://arxiv.org/abs/2609.36837) Our new study quantifies the information ceiling and shows that tested super-resolution models generate fine structures unsupported by the measurements.
-
 ![Extract from the paper: Figure 3: Anatomical detail and the measured information ceiling](figure.png)
 
 Figure 3: Anatomical detail and the measured information ceiling. [Source paper, page 18](https://arxiv.org/pdf/2609.36837).

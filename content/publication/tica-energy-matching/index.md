@@ -19,8 +19,6 @@ links = [{name = "Publication", url = "https://arxiv.org/abs/2509.14600"}]
   focal_point = "Center"
 +++
 
-What happens when energy supervision complements force matching? [This study](https://arxiv.org/abs/2509.14600) investigates its effect on learned molecular free-energy landscapes.
-
 ![Extract from the paper: Figure 1: Ground-truth and predicted free-energy landscapes](figure.png)
 
 Figure 1: Ground-truth and predicted free-energy landscapes. [Source paper, page 3](https://arxiv.org/pdf/2509.14600).

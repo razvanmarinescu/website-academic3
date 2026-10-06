@@ -19,8 +19,6 @@ links = [{name = "Publication", url = "https://arxiv.org/abs/2601.22033"}]
   focal_point = "Center"
 +++
 
-Inspired by the AdS/CFT correspondence, [Holographic Generative Flows](https://arxiv.org/abs/2601.22033) introduces a physics-based framework for generative flow matching, accepted in Machine Learning: Science and Technology.
-
 ![Extract from the paper: Figure 1: Holographic encoding of an MNIST sample](figure.png)
 
 Figure 1: Holographic encoding of an MNIST sample. [Source paper, page 9](https://arxiv.org/pdf/2601.22033).

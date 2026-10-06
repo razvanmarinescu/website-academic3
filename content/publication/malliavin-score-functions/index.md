@@ -19,8 +19,6 @@ links = [{name = "Publication", url = "https://arxiv.org/abs/2507.05550"}]
   focal_point = "Center"
 +++
 
-A Malliavin calculus framework derives score functions for nonlinear diffusion models using first and second variation processes and a new Bismut-type formula.
-
 ![Extract from the paper: Theorem 2.1: Score-function representation (equation excerpt; this paper contains no figures)](figure.png)
 
 Theorem 2.1: Score-function representation (equation excerpt; this paper contains no figures). [Source paper, page 4](https://arxiv.org/pdf/2507.05550).

@@ -19,8 +19,6 @@ links = [{name = "Publication", url = "https://www.nature.com/articles/s41598-02
   focal_point = "Center"
 +++
 
-A [new paper in Scientific Reports](https://www.nature.com/articles/s41598-025-05966-2) combines modular machine learning models, imaging, genetics, and cognitive tests for Alzheimer’s detection, including when some data modalities are missing.
-
 ![Extract from the paper: Figure 1: Compositional graph for Alzheimer’s disease detection](figure.png)
 
 Figure 1: Compositional graph for Alzheimer’s disease detection. [Source paper, page 2](https://www.nature.com/articles/s41598-025-05966-2.pdf).

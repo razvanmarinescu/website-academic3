@@ -19,8 +19,6 @@ links = [{name = "Publication", url = "https://arxiv.org/abs/2509.17208"}]
   focal_point = "Center"
 +++
 
-By requesting new training data when trajectories reach poorly sampled configurations, our [active learning framework](https://arxiv.org/abs/2509.17208) improves coarse-grained molecular simulations.
-
 ![Extract from the paper: Figure 1: Active learning pipeline](figure.png)
 
 Figure 1: Active learning pipeline. [Source paper, page 3](https://arxiv.org/pdf/2509.17208).

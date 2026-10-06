@@ -19,8 +19,6 @@ links = [{name = "Publication", url = "https://arxiv.org/abs/2608.21805"}]
   focal_point = "Center"
 +++
 
-A new [stochastic PDE preprint](https://arxiv.org/abs/2608.21805) derives logarithmic derivatives of solution distributions for variational and singular stochastic partial differential equations.
-
 ![Extract from the paper: Figure 1: Numerical validation across stochastic PDEs](figure.png)
 
 Figure 1: Numerical validation across stochastic PDEs. [Source paper, page 143](https://arxiv.org/pdf/2608.21805).

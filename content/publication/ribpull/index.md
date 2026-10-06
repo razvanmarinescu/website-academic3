@@ -19,8 +19,6 @@ links = [{name = "Publication", url = "https://arxiv.org/abs/2509.01402"}]
   focal_point = "Center"
 +++
 
-Introducing [RibPull](https://arxiv.org/abs/2509.01402): continuous neural representations of CT ribcages that enable extraction of their skeletal structure.
-
 ![Extract from the paper: Figure 1: RibPull methodology](figure.png)
 
 Figure 1: RibPull methodology. [Source paper, page 2](https://arxiv.org/pdf/2509.01402).

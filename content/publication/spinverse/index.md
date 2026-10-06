@@ -19,8 +19,6 @@ links = [{name = "Publication", url = "https://arxiv.org/abs/2603.04638"}]
   focal_point = "Center"
 +++
 
-[Spinverse](https://arxiv.org/abs/2603.04638) uses differentiable physics to reconstruct tissue boundaries and permeability from simulated diffusion MRI measurements.
-
 ![Extract from the paper: Figure 1: Spinverse reconstruction pipeline](figure.png)
 
 Figure 1: Spinverse reconstruction pipeline. [Source paper, page 3](https://arxiv.org/pdf/2603.04638).

@@ -19,8 +19,6 @@ links = [{name = "Publication", url = "https://arxiv.org/abs/2510.25773"}]
   focal_point = "Center"
 +++
 
-[Latent Spaces for Langevin Dynamics](https://arxiv.org/abs/2510.25773) establishes conditions for correct molecular sampling in coarse-grained representations, including learned latent spaces.
-
 ![Extract from the paper: Figure 1: Ground-truth and predicted latent-space probabilities](figure.png)
 
 Figure 1: Ground-truth and predicted latent-space probabilities. [Source paper, page 8](https://arxiv.org/pdf/2510.25773).

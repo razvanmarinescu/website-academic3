@@ -19,8 +19,6 @@ links = [{name = "Publication", url = "https://doi.org/10.1021/acs.jpcb.5c05365"
   focal_point = "Center"
 +++
 
-Published in The Journal of Physical Chemistry B, our [molecular dynamics benchmark](https://arxiv.org/abs/2510.17187) enables reproducible comparisons across nine proteins using weighted ensemble sampling.
-
 ![Extract from the paper: Figure 1: Weighted ensemble benchmarking framework](figure.png)
 
 Figure 1: Weighted ensemble benchmarking framework. [Source paper, page 5](https://arxiv.org/pdf/2510.17187).

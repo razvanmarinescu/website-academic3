@@ -19,8 +19,6 @@ links = [{name = "Publication", url = "https://arxiv.org/abs/2605.12823"}]
   focal_point = "Center"
 +++
 
-[Hessian Matching](https://arxiv.org/abs/2605.12823) improves coarse-grained molecular simulations by teaching neural potentials the curvature of the free-energy landscape.
-
 ![Extract from the paper: Figure 1: Hessian-vector product matching pipeline](figure.png)
 
 Figure 1: Hessian-vector product matching pipeline. [Source paper, page 6](https://arxiv.org/pdf/2605.12823).

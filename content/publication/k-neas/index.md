@@ -19,8 +19,6 @@ links = [{name = "Publication", url = "https://arxiv.org/abs/2607.14415"}]
   focal_point = "Center"
 +++
 
-Accepted for an oral presentation at MICCAI’s Off-Grid workshop, [K-NeAS](https://arxiv.org/abs/2607.14415) reconstructs multiple tissue types from sparse CT measurements using neural surface representations.
-
 ![Extract from the paper: Figure 4: CT reconstruction comparisons](figure.png)
 
 Figure 4: CT reconstruction comparisons. [Source paper, page 7](https://arxiv.org/pdf/2607.14415).

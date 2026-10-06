@@ -19,4 +19,4 @@ links = [{name = "Publication", url = "https://openreview.net/forum?id=Kjl51A6Pe
   focal_point = "Center"
 +++
 
-Generating brain scans with controllable clinical attributes: [this paper](https://openreview.net/pdf?id=Kjl51A6Pe9) combines a 3D VAE-GAN with diffusion-based feature sampling.
+
