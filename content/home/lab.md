@@ -110,7 +110,7 @@ Paul Killiam <img src="img/paul.jpg" width="200" /><br><br> -->
 
 <h2>Masters and Undergraduate students</h2>
 
-* Cyrus Correll: Leads Hepatitis B capsid self-assembly team
+* Cyrus Correll: AI for Molecular Dynamics
 * Sameera (Sam) Kashyap: Mars climate simulations
 
 <br><br>
