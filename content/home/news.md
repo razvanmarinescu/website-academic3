@@ -33,6 +33,20 @@ weight = 10
   
 +++
 
+* **Sept 2026**: [How much detail can ultra-low-field MRI recover?](https://arxiv.org/abs/2609.36837) Our new study quantifies the information ceiling and shows that tested super-resolution models generate fine structures unsupported by the measurements.
+* **Sept 2026**: Inspired by the AdS/CFT correspondence, [Holographic Generative Flows](https://arxiv.org/abs/2601.22033) introduces a physics-based framework for generative flow matching, accepted in Machine Learning: Science and Technology.
+* **Aug 2026**: A new [stochastic PDE preprint](https://arxiv.org/abs/2608.21805) derives logarithmic derivatives of solution distributions for variational and singular stochastic partial differential equations.
+* **July 2026**: Accepted for an oral presentation at MICCAI’s Off-Grid workshop, [K-NeAS](https://arxiv.org/abs/2607.14415) reconstructs multiple tissue types from sparse CT measurements using neural surface representations.
+* **May 2026**: [Hessian Matching](https://arxiv.org/abs/2605.12823) improves coarse-grained molecular simulations by teaching neural potentials the curvature of the free-energy landscape.
+* **March 2026**: [Spinverse](https://arxiv.org/abs/2603.04638) uses differentiable physics to reconstruct tissue boundaries and permeability from simulated diffusion MRI measurements.
+* **Feb 2026**: Introducing [RibPull](https://arxiv.org/abs/2509.01402): continuous neural representations of CT ribcages that enable extraction of their skeletal structure.
+* **Dec 2025**: Published in The Journal of Physical Chemistry B, our [molecular dynamics benchmark](https://arxiv.org/abs/2510.17187) enables reproducible comparisons across nine proteins using weighted ensemble sampling.
+* **Dec 2025**: Generating brain scans with controllable clinical attributes: [this paper](https://openreview.net/pdf?id=Kjl51A6Pe9) combines a 3D VAE-GAN with diffusion-based feature sampling.
+* **Oct 2025**: [Latent Spaces for Langevin Dynamics](https://arxiv.org/abs/2510.25773) establishes conditions for correct molecular sampling in coarse-grained representations, including learned latent spaces.
+* **Sept 2025**: By requesting new training data when trajectories reach poorly sampled configurations, our [active learning framework](https://arxiv.org/abs/2509.17208) improves coarse-grained molecular simulations.
+* **Sept 2025**: What happens when energy supervision complements force matching? [This study](https://arxiv.org/abs/2509.14600) investigates its effect on learned molecular free-energy landscapes.
+* **Aug 2025**: Malliavin calculus provides a foundation for [score-based diffusion models in infinite dimensions](https://arxiv.org/abs/2508.20316), with score formulas for generative modelling in function spaces.
+* **July 2025**: A [new paper in Scientific Reports](https://www.nature.com/articles/s41598-025-05966-2) combines modular machine learning models, imaging, genetics, and cognitive tests for Alzheimer’s detection, including when some data modalities are missing.
 * **May 2025**: Prathamesh presented a posted in ISMRM poster on [ReMiDi: Microstructure reconstruction using a differentiable MRI simulator](https://arxiv.org/pdf/2502.01988). 
 * **March 2025**: Malliavin Calculus can can be applied to AI-based Diffusion Models! Check our two new pre-prints: [Malliavin Calculus for Diffusion Models](https://arxiv.org/abs/2503.16917) (more applied, contains numerical results) and [A Malliavin calculus approach to score functions
 in diffusion generative models](https://arxiv.org/pdf/2507.05550) (more theoretical, covering the general case)
