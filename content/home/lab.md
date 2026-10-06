@@ -118,7 +118,7 @@ Paul Killiam <img src="img/paul.jpg" width="200" /><br><br> -->
 * [Ian Terry](https://www.linkedin.com/in/ianmichaelterry/)
 * [Anderson Compalas](https://acompalas.github.io/)
 * [Anusha Pai](https://www.linkedin.com/in/anushapai/): MD project; parallelized file processing
-* [Daksh Shah](https://dakshshah.com/): Regularly attended MD meetings, now works on computer vision
+* [Daksh Shah](https://dakshshah.com/): Scalable Multi-Material CT Reconstruction Using Neural SDFs (paper at. MICCAI [https://arxiv.org/abs/2607.14415](https://arxiv.org/abs/2607.14415))
 * Arthur Wei
 * [Justin Bui](https://www.linkedin.com/in/justin-bui-263776218/): Gaussian Splatting (with Manolis)
 * [Ariel Raizman](https://www.linkedin.com/in/arielraizman/): HMM for nanopore methylation (with Hans Boeger)
