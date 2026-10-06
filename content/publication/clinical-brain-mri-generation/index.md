@@ -18,5 +18,3 @@ links = [{name = "Publication", url = "https://openreview.net/forum?id=Kjl51A6Pe
   caption = ""
   focal_point = "Center"
 +++
-
-
