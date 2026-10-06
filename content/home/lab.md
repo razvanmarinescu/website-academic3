@@ -45,7 +45,7 @@ weight = 60
         </div>
         <div class="person">
             <img src="img/prathamesh.png"/>
-            <figcaption><a href="https://www.linkedin.com/in/prathamesh-khole-220258170">Prathamesh Pradeep Khole</a></figcaption>
+            <figcaption><a href="https://prathameshkhole.github.io/">Prathamesh Pradeep Khole</a></figcaption>
         </div>
         <div class="person">
             <img src="img/ionut.jpg"/>
@@ -59,12 +59,12 @@ weight = 60
         <!-- Portrait sources: https://www.linkedin.com/in/kevin-bachelor-585603283
              and https://www.linkedin.com/in/sanya-murdeshwar -->
         <div class="person">
-            <img src="img/kevin.jpg" alt="Kevin Bachelor"/>
-            <figcaption><a href="https://www.linkedin.com/in/kevin-bachelor-585603283">Kevin Bachelor</a></figcaption>
+            <img src="img/sanya.jpg" alt="Sanya Murdeshwar"/>
+            <figcaption><a href="https://scholar.google.com/citations?user=ULXk_34AAAAJ">Sanya Murdeshwar</a></figcaption>
         </div>
         <div class="person">
-            <img src="img/sanya.jpg" alt="Sanya Murdeshwar"/>
-            <figcaption><a href="https://www.linkedin.com/in/sanya-murdeshwar">Sanya Murdeshwar</a></figcaption>
+            <img src="img/kevin.jpg" alt="Kevin Bachelor"/>
+            <figcaption><a href="https://scholar.google.com/citations?user=J2kyLP0AAAAJ">Kevin Bachelor</a></figcaption>
         </div>
 </div><br><br>
 
@@ -106,36 +106,16 @@ Paul Killiam <img src="img/paul.jpg" width="200" /><br><br> -->
 <h2>Masters and Undergraduate students</h2>
 
 * Cyrus Correll
-* Andrew Bruce
-* Iman Yael Schaefer
 
 <br><br>
 
 <h2>Former students</h2>
-<div class="gallery">
-        <div class="person">
-            <img src="img/sanjit.jpg" alt="Sanjit Shashi"/>
-            <figcaption><a href="https://www.sanjitshashi.com/">Sanjit Shashi</a></figcaption>
-        </div>
-        <div class="person">
-            <img src="img/manolis.png"/>
-            <figcaption><a href="https://manolisnikolakakis.github.io">Manolis Nikolakakis</a></figcaption>
-        </div>
-        <div class="person">
-            <img src="img/najmeh.jpg"/>
-            <figcaption><a href="https://najmehmashhadi.com/">Najmeh Mashhadi</a></figcaption>
-        </div>
-        <div class="person">
-            <img src="img/daniel.jpg"/>
-            <figcaption>Daniel Sabo</figcaption>
-        </div>
-        <div class="person">
-            <img src="img/ian.png"/>
-            <figcaption><a href="https://www.linkedin.com/in/ianmichaelterry/">Ian Terry</a></figcaption>
-        </div>
-</div>
 
-
+* [Sanjit Shashi](https://www.sanjitshashi.com/)
+* [Manolis Nikolakakis](https://manolisnikolakakis.github.io)
+* [Najmeh Mashhadi](https://najmehmashhadi.com/)
+* Daniel Sabo
+* [Ian Terry](https://www.linkedin.com/in/ianmichaelterry/)
 * Anderson Compalas
 * Anusha Pai
 * Daksh Shah
