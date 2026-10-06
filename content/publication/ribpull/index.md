@@ -15,11 +15,11 @@ url_pdf = "https://arxiv.org/pdf/2509.01402"
 url_preprint = "https://arxiv.org/abs/2509.01402"
 links = [{name = "Publication", url = "https://arxiv.org/abs/2509.01402"}]
 [image]
-  caption = "Figure 1: RibPull methodology"
+  caption = "Figure 3: Ground truth, surface reconstruction, and ribcage skeletonization"
   focal_point = "Center"
   fit = true
 +++
 
-![Extract from the paper: Figure 1: RibPull methodology](figure.png)
+![Extract from the paper: Figure 3: Ground truth, surface reconstruction, and ribcage skeletonization](figure.png)
 
-Figure 1: RibPull methodology. [Source paper, page 2](https://arxiv.org/pdf/2509.01402).
+Figure 3: Ground truth, surface reconstruction, and ribcage skeletonization. [Source paper, page 4](https://arxiv.org/pdf/2509.01402).
