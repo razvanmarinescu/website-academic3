@@ -4,7 +4,7 @@ widget = "projects"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
 title = "Projects"
-subtitle = "Project's we're currently focusing on: Molecular Dynamics, Differentiable simulators, ML Compositionality, Generative Modelling and Mars Climate Simulations. For prospective students, look at these in particular. "
+subtitle = "Project's we're currently focusing on: Molecular Dynamics, Differentiable simulators, ML Compositionality, Generative Modelling, Mars Climate Simulations and Brain Digital Twins. For prospective students, look at these in particular. "
 
 # Order that this section will appear in.
 weight = 50
