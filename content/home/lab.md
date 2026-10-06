@@ -105,29 +105,13 @@ Paul Killiam <img src="img/paul.jpg" width="200" /><br><br> -->
 
 <h2>Masters and Undergraduate students</h2>
 
-* Anderson Compalas
-* Anusha Pai
-* Daksh Shah
-* Arthur Wei
-* Justin Bui
-* Ariel Raizman
-* Jane Choi
-* Alex Feghhi
 * Cyrus Correll
-* Jason Zhang
 * Andrew Bruce
-* Akshitha Nagaraj
 * Iman Yael Schaefer
-* Clayton Lau
-* Bora Dursun
-* Akshat Tiwari
-* Amisha Kandi
-* Anish Pahilajani
-* Philip Bizimis 
 
 <br><br>
 
-<h2>Alumni</h2>
+<h2>Former students</h2>
 <div class="gallery">
         <div class="person">
             <img src="img/sanjit.jpg" alt="Sanjit Shashi"/>
@@ -151,6 +135,23 @@ Paul Killiam <img src="img/paul.jpg" width="200" /><br><br> -->
         </div>
 </div>
 
+
+* Anderson Compalas
+* Anusha Pai
+* Daksh Shah
+* Arthur Wei
+* Justin Bui
+* Ariel Raizman
+* Jane Choi
+* Alex Feghhi
+* Jason Zhang
+* Akshitha Nagaraj
+* Clayton Lau
+* Bora Dursun
+* Akshat Tiwari
+* Amisha Kandi
+* Anish Pahilajani
+* Philip Bizimis
 
 [Sreevani Suvarna](https://www.linkedin.com/in/sreevani-suvarna/): Software Engineer at ADP<br>
 [Jueqi Wang](https://github.com/wendy-xiaozong): PhD student at BU<br>
