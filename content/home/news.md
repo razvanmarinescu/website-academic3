@@ -36,6 +36,9 @@ weight = 10
 * **May 2025**: Prathamesh presented a posted in ISMRM poster on [ReMiDi: Microstructure reconstruction using a differentiable MRI simulator](https://arxiv.org/pdf/2502.01988). 
 * **March 2025**: Malliavin Calculus can can be applied to AI-based Diffusion Models! Check our two new pre-prints: [Malliavin Calculus for Diffusion Models](https://arxiv.org/abs/2503.16917) (more applied, contains numerical results) and [A Malliavin calculus approach to score functions
 in diffusion generative models](https://arxiv.org/pdf/2507.05550) (more theoretical, covering the general case)
+
+{{< older_news >}}
+
 * **Oct 2024**: New paper at ISMIR on Generative Music in Medicine: https://lapis-rudbeckia-73a.notion.site/Generative-Music-Medicine-1134c5d62d4c80f2a3eee2c50451b416
 * **June 2024**: Our lab attended the [ML for drug discovery summer school](https://portal.ml4dd.com/) in Montreal, hosted by Valence Labs and MILA. 
 * **April 2024**: Visited 6 universities in India (IIT Kanpour, IIT Delhi, IIT Madras, IIIT Hyderabad, Shiv Nadar and Ashoka) for research collaborations and student recruitment
@@ -64,3 +67,5 @@ in diffusion generative models](https://arxiv.org/pdf/2507.05550) (more theoreti
 * **March 2019**: Our paper describing [DIVE, the spatio-temporal disease progression model](https://www.sciencedirect.com/science/article/pii/S1053811919301491?via%3Dihub), was published in NeuroImage.
 * **February 2019**: Started postdoc at MIT with Polina Golland working on neroimaging analysis of stroke.
 * **January 2019**: Defended my [PhD thesis](https://arxiv.org/abs/2003.04805) at UCL. Stanley Durrleman and Janaina Mourao-Miranda were part of the examining committee.
+
+{{< /older_news >}}

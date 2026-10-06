@@ -100,12 +100,14 @@ body {
   opacity: 1; /* Show the tooltip on hover */
 }
 
-.former-students > summary {
+.former-students > summary,
+.older-news > summary {
   color: inherit;
   cursor: pointer;
   text-decoration: underline;
 }
 
-.former-students[open] > summary {
+.former-students[open] > summary,
+.older-news[open] > summary {
   margin-bottom: 1rem;
 }
