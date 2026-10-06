@@ -1,6 +1,7 @@
 +++
 title = "AI for Material Science"
 date = 2025-02-14T13:51:15-07:00
+weight = 50
 draft = false
 
 # Tags: can be used for filtering projects.

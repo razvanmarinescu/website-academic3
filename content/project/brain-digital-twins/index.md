@@ -1,6 +1,7 @@
 +++
 title = "Brain Digital Twins"
 date = 2026-10-06T15:34:00-07:00
+weight = 20
 draft = false
 tags = []
 summary = "Using multimodal MRI and differentiable simulators to infer virtual brains."

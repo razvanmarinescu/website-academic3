@@ -1,6 +1,7 @@
 +++
 title = "Mars Climate Simulations"
 date = 2026-10-06T15:31:00-07:00
+weight = 60
 draft = false
 tags = []
 summary = "Combining classical Mars climate simulations, neural network surrogates, and differentiable simulators for parameter calibration."

@@ -1,6 +1,7 @@
 +++
 title = "Image Reconstruction"
 date = 2022-09-25T15:03:54-07:00
+weight = 40
 draft = false
 
 # Tags: can be used for filtering projects.

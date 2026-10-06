@@ -1,6 +1,7 @@
 +++
 title = "Simulating a Virtual Cell"
 date = 2024-04-17T12:17:38-07:00
+weight = 30
 draft = false
 
 # Tags: can be used for filtering projects.
