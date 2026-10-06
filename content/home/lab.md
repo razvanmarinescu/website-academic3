@@ -33,24 +33,8 @@ weight = 60
   
 +++
 
-<h2>Postdocs</h2>
-<!-- <div class="gallery"> -->
-    <div class="person" style="margin-left: 0.5in;">
-        <img src="img/sanjit.jpg"/>
-        <figcaption style="text-align: left;"><a href="https://www.sanjitshashi.com/">Sanjit Shashi</a></figcaption>
-    </div>
-<!-- </div> -->
-
 <h2>PhD students</h2>
 <div class="gallery">
-        <div class="person">
-            <img src="img/manolis.png"/>
-            <figcaption><a href="https://manolisnikolakakis.github.io">Manolis Nikolakakis</a></figcaption>
-        </div>
-        <div class="person">
-            <img src="img/najmeh.jpg"/>
-            <figcaption><a href="https://najmehmashhadi.com/">Najmeh Mashhadi</a></figcaption>
-        </div>
         <div class="person">
             <img src="img/ehsan.png" />
             <figcaption><a href="https://scholar.google.com/citations?user=rVyaz0oAAAAJ&hl=en">Ehsan Mirafzali</a></figcaption>
@@ -58,10 +42,6 @@ weight = 60
         <div class="person">
             <img src="img/utkarsh.jpg"  />
             <figcaption><a href="https://28utkarsh08.wixsite.com/home">Utkarsh Gupta</a></figcaption>
-        </div>
-        <div class="person">
-            <img src="img/daniel.jpg"/>
-            <figcaption>Daniel Sabo</figcaption>
         </div>
         <div class="person">
             <img src="img/prathamesh.png"/>
@@ -72,15 +52,20 @@ weight = 60
             <figcaption><a href="https://www.linkedin.com/in/mistreanuionutcosmin/">Ionut Mistreanu</a></figcaption>
         </div>
         <div class="person">
-            <img src="img/ian.png"/>
-            <figcaption><a href="https://www.linkedin.com/in/ianmichaelterry/">Ian Terry</a></figcaption>
-        </div>
-                <div class="person">
             <img src="img/andrew.jpg"/>
             <figcaption>Andrew Bruce</figcaption>
         </div>
 
-
+        <!-- Portrait sources: https://www.linkedin.com/in/kevin-bachelor-585603283
+             and https://www.linkedin.com/in/sanya-murdeshwar -->
+        <div class="person">
+            <img src="img/kevin.jpg" alt="Kevin Bachelor"/>
+            <figcaption><a href="https://www.linkedin.com/in/kevin-bachelor-585603283">Kevin Bachelor</a></figcaption>
+        </div>
+        <div class="person">
+            <img src="img/sanya.jpg" alt="Sanya Murdeshwar"/>
+            <figcaption><a href="https://www.linkedin.com/in/sanya-murdeshwar">Sanya Murdeshwar</a></figcaption>
+        </div>
 </div><br><br>
 
 
@@ -120,12 +105,10 @@ Paul Killiam <img src="img/paul.jpg" width="200" /><br><br> -->
 
 <h2>Masters and Undergraduate students</h2>
 
-* Kevin Bachelor
 * Anderson Compalas
 * Anusha Pai
 * Daksh Shah
 * Arthur Wei
-* Sanya Murdeshwar
 * Justin Bui
 * Ariel Raizman
 * Jane Choi
@@ -145,6 +128,29 @@ Paul Killiam <img src="img/paul.jpg" width="200" /><br><br> -->
 <br><br>
 
 <h2>Alumni</h2>
+<div class="gallery">
+        <div class="person">
+            <img src="img/sanjit.jpg" alt="Sanjit Shashi"/>
+            <figcaption><a href="https://www.sanjitshashi.com/">Sanjit Shashi</a></figcaption>
+        </div>
+        <div class="person">
+            <img src="img/manolis.png"/>
+            <figcaption><a href="https://manolisnikolakakis.github.io">Manolis Nikolakakis</a></figcaption>
+        </div>
+        <div class="person">
+            <img src="img/najmeh.jpg"/>
+            <figcaption><a href="https://najmehmashhadi.com/">Najmeh Mashhadi</a></figcaption>
+        </div>
+        <div class="person">
+            <img src="img/daniel.jpg"/>
+            <figcaption>Daniel Sabo</figcaption>
+        </div>
+        <div class="person">
+            <img src="img/ian.png"/>
+            <figcaption><a href="https://www.linkedin.com/in/ianmichaelterry/">Ian Terry</a></figcaption>
+        </div>
+</div>
+
 
 [Sreevani Suvarna](https://www.linkedin.com/in/sreevani-suvarna/): Software Engineer at ADP<br>
 [Jueqi Wang](https://github.com/wendy-xiaozong): PhD student at BU<br>
