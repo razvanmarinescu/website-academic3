@@ -112,6 +112,7 @@ Paul Killiam <img src="img/paul.jpg" width="200" /><br><br> -->
 
 * Cyrus Correll: AI for Molecular Dynamics
 * Sameera (Sam) Kashyap: Mars climate simulations
+* Nilufer Sagat: Optimization of photovoltaic materials
 
 <br><br>
 
