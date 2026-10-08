@@ -33,6 +33,14 @@ weight = 60
   
 +++
 
+<h2>Principal Investigator</h2>
+<div class="gallery">
+        <div class="person">
+            <img src="/author/admin/avatar.png" alt="Razvan Marinescu"/>
+            <figcaption><a href="/#about">Razvan Marinescu</a></figcaption>
+        </div>
+</div><br><br>
+
 <h2>PhD students</h2>
 <div class="gallery">
         <div class="person">
